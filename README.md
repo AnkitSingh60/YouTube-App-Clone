@@ -21,8 +21,7 @@ Project: make a clone of https://www.youtube.com/ site
   
  
  ### End Notes 📑
-In this project we were tried to achieve a near to perfect clone of the original website as much as possible. This entire journey of has given us experiences and we
-have learned lots of things by applying to the real website and it gave us a lot of confidence.
+In this project i tried to achieve a near to perfect clone of the original website as much as possible. This entire journey of has given me experiences and i have learned lots of things by applying to the real website and it gave me a lot of confidence.
 
 
   ## Its a solo project done by me only❤️😇

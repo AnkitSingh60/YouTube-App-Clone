@@ -182,13 +182,12 @@ hr {
   background-color: #e5e5e5;
   border: none;
 }
-#search_result{
-  /* border: 1px solid red; */
-  width: 100%;
-}
+
 #search_result{
   display: grid;
+  width: 100%;
   grid-template-columns: repeat(4,25%);
+  cursor: pointer;
 }
 .box{
   /* border: 1px solid red; */
